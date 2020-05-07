@@ -62,8 +62,6 @@ Friend Class Form1
 
         SetButton(TbInsertButton, LEVEL0, False)
 
-
-
         Call SetProps(Me, cL0Descr, cL0Descr, PROP_ENABLED, False)
     End Sub
 

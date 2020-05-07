@@ -436,7 +436,7 @@
         Me.CuentaSII.Location = New System.Drawing.Point(148, 115)
         Me.CuentaSII.Mask = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
         Me.CuentaSII.Name = "CuentaSII"
-        Me.CuentaSII.Size = New System.Drawing.Size(262, 19)
+        Me.CuentaSII.Size = New System.Drawing.Size(141, 19)
         Me.CuentaSII.TabIndex = 2
         Me.CuentaSII.TextLength = 30
         '

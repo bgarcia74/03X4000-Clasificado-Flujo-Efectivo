@@ -12,7 +12,5 @@
         If x_Cursor = True Then
             Call SqlCursorEx(Csr_Account, x_Level, "Csr_Account", "Account", "")
         End If
-
-        'hola
     End Sub
 End Module
